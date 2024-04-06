@@ -1,3 +1,9 @@
+# Make Outputs
+*output
+
+# IDE
+.vscode
+
 # Prerequisites
 *.d
 
